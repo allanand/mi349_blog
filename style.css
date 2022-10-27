@@ -22,9 +22,9 @@ line-height: 1,4em;
 }
 
 #blog {
-
+border-top: 1pxd fotted #ccc;
 }
 
 .blog-post{
-
+    border-bottom: 1px dotted #ccc;
 }
