@@ -1,5 +1,8 @@
 body {
-    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40 px;
+    color: #242424;
+    border-top: 10px solid #242424;
 }
 
 h1 {
@@ -15,5 +18,5 @@ p {
 }
 
 .blog-post{
-    
+
 }
