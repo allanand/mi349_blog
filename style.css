@@ -36,7 +36,8 @@ tr {
 }
 
 td {
-font-size: 8;
+    border-right: black;
+    height: 100px;
 }
 
 #bh_table {
