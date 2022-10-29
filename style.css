@@ -28,5 +28,6 @@ width: 400px;
 }
 
 .blog-post2 {
+    border-top: 1px dotted #ccc;
     border-bottom: 1px dotted #ccc;
 }
