@@ -30,6 +30,10 @@ footer {
     border-top: 1px dotted #ccc;
 }
 
+tr {
+    border-left: black;
+    height: 100px;
+}
 #bh_table {
     background-color: lightblue;
     width: 40%;
