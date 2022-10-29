@@ -42,6 +42,8 @@ th {
 
 
 #bh_table {
+    border-collapse: seperate;
+    border-spacing: 10px 5px;
     background-color: lightblue;
     width: 65%;
 }
