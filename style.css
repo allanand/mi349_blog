@@ -40,6 +40,11 @@ th {
     height: 50px;
 }
 
+td {
+    border-left: black;
+    height: 50px;
+}
+
 
 #bh_table {
     background-color: lightblue;
