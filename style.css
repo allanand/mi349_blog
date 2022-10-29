@@ -22,7 +22,7 @@ line-height: 1.4em;
 width: 400px;
 }
 
-#Article_1 {
+.blog-post {
     border-top: 1pxd fotted #ccc;
     border-bottom: 1px dotted #ccc;
 }
