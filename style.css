@@ -35,12 +35,9 @@ tr {
     height: 75px;
 }
 
-tr {
-    border-right: black;
-    height: 75px;
-}
 
 #bh_table {
+    font-size: 12px;
     background-color: lightblue;
     width: 65%;
 }
