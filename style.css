@@ -32,6 +32,7 @@ footer {
 
 tr {
     border-left: black;
+    border-right: black;
     height: 100px;
 }
 #bh_table {
