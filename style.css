@@ -22,12 +22,12 @@ line-height: 1.4em;
 width: 400px;
 }
 
-.Article_1 {
+#Article_1 {
     border-top: 1pxd fotted #ccc;
     border-bottom: 1px dotted #ccc;
 }
 
-.Article_2 {
+#Article_2 {
     border-top: 1pxd fotted #ccc;
     border-bottom: 1px dotted #ccc;
 }
