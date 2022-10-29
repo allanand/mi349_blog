@@ -26,6 +26,6 @@ width: 400px;
 border-top: 1pxd fotted #ccc;
 }
 
-.blog-post{
+article {
     border-bottom: 1px dotted #ccc;
 }
