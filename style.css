@@ -22,10 +22,12 @@ line-height: 1.4em;
 width: 400px;
 }
 
-#blog {
-border-top: 1pxd fotted #ccc;
+.Article_1 {
+    border-top: 1pxd fotted #ccc;
+    border-bottom: 1px dotted #ccc;
 }
 
-article {
+.Article_2 {
+    border-top: 1pxd fotted #ccc;
     border-bottom: 1px dotted #ccc;
 }
