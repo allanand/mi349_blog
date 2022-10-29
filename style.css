@@ -30,8 +30,9 @@ footer {
     border-top: 1px dotted #ccc;
 }
 
-#bhtable {
+#bh_table {
     background-color: lightblue;
+    box-sizing: border-box;
 }
 
 .blog-post {
