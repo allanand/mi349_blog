@@ -35,6 +35,10 @@ tr {
     height: 75px;
 }
 
+th {
+    border-right: black;
+    height: 75px;
+}
 
 
 #bh_table {
