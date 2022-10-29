@@ -35,6 +35,10 @@ width: 400px;
     border-bottom: 1px dotted #ccc;
 }
 
+
+.contact-me {
+    border-top: 1px dotted #ccc;
+}
 footer {
     border-top: 1px dotted #ccc;
 }
