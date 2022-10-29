@@ -33,6 +33,9 @@ footer {
 tr {
     border-left: black;
     height: 75px;
+}
+
+tr {
     border-right: black;
     height: 75px;
 }
