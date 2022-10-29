@@ -26,6 +26,9 @@ label {
     background-color: yellow;
 }
 
+table {
+    background-color: lightskyblue;
+}
 footer {
     border-top: 1px dotted #ccc;
 }
@@ -42,7 +45,6 @@ footer {
     border-top: 1px dotted #ccc;
     border-bottom: 1px dotted #ccc;
 }
-
 
 .contact-me {
     border-top: 1px dotted #ccc;
