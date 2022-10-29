@@ -34,6 +34,11 @@ tr {
     border-left: black;
     height: 100px;
 }
+
+td {
+font-size: 8;
+}
+
 #bh_table {
     background-color: lightblue;
     width: 65%;
