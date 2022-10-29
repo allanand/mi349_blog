@@ -35,6 +35,10 @@ footer {
     width: 40%;
 }
 
+.test {
+    border-top: 1px dotted #ccc;
+}
+
 .blog-post {
     border-top: 1px dotted #ccc;
 }
