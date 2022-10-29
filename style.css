@@ -32,9 +32,6 @@ footer {
 
 #bh_table {
     background-color: lightblue;
-    box-sizing: border-box;
-    width: 100%;
-    border: 1 px solid black;
 }
 
 .blog-post {
