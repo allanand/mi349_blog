@@ -67,6 +67,7 @@ tr {
 
 .sticky {
     background: green;
-    position: -webkit-sticky;
+    width: 100%;
     position: sticky;
+    top: 0;
 }
