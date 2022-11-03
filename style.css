@@ -65,7 +65,7 @@ tr {
 }
 
 .sticky {
-    background: green;
+    background: #e5e5e5;
     position: sticky;
     top:0;
 
