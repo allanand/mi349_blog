@@ -75,12 +75,12 @@ tr {
 }
 
 section {
-    background: lightyellow;
+    background: #fff;
     display: flex;
 }
 
 article {
-    background: #fff;
+    background: lightyellow;
 
 }
 
