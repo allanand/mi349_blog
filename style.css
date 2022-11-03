@@ -71,3 +71,16 @@ tr {
     width: 20%;
 
 }
+
+section {
+    background: #ccc;
+}
+
+article {
+    background: #999;
+
+}
+
+footer {
+    background: #555;
+}
