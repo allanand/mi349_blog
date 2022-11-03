@@ -65,10 +65,11 @@ tr {
 }
 
 header {
-    top:0;
-    width: 100%;
+    overflow: scroll;
 }
 .sticky {
     background: green;
     position: sticky;
+    top:0;
+
 }
