@@ -39,7 +39,7 @@ tr {
 
 
 #bh_table {
-    background-color: lightyellow;
+    background-color: white;
     width: 80%;
     margin: 20px;
 }
@@ -75,6 +75,7 @@ tr {
 }
 
 section {
+    background: lightyellow;
     display: flex;
 }
 
