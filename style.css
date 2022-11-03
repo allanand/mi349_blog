@@ -65,7 +65,7 @@ tr {
 }
 
 header {
-    overflow: scroll;
+    overflow: hidden;
 }
 .sticky {
     background: green;
