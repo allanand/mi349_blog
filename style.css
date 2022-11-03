@@ -66,6 +66,7 @@ tr {
 
 header {
     top:0;
+    width: 100%;
 }
 .sticky {
     background: green;
