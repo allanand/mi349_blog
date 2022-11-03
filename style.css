@@ -74,6 +74,7 @@ tr {
 
 section {
     background: #ccc;
+    display: flex;
 }
 
 article {
