@@ -64,10 +64,10 @@ tr {
     border-bottom: 1px dotted #ccc;
 }
 
-
+header {
+    top:0;
+}
 .sticky {
     background: green;
-    width: 100%;
     position: sticky;
-    top: 0;
 }
