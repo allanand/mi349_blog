@@ -63,3 +63,10 @@ tr {
     border-top: 1px dotted #ccc;
     border-bottom: 1px dotted #ccc;
 }
+
+
+nav {
+    background: green;
+    position: sticky;
+    top: 0;
+}
