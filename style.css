@@ -68,6 +68,7 @@ header {
     overflow: hidden;
 }
 .sticky {
+    overflow: scroll;
     background: green;
     position: sticky;
     top:0;
