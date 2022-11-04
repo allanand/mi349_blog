@@ -105,8 +105,8 @@ form {
 }
 
 .con1 {
-    flex:2;
+    flex:1;
 }
 .con2 {
-    flex:1;
+    flex:2;
 }
