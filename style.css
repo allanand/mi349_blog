@@ -94,8 +94,7 @@ form {
 
 #aboot {
     display: flex
-    flex: 300px ;
 }
 .aboot2 {
-    flex: 300px;
+    flex: 600px;
 }
