@@ -90,6 +90,7 @@ BH10 {
 
 form {
     display: flex;
+    width: 20%;
 }
 
 #aboot {
