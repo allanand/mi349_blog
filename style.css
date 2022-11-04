@@ -108,8 +108,8 @@ form {
     display: flex
 }
 .con1 {
-    flex:3;
+    flex:1;
 }
 .con2 {
-    flex:1;
+    flex:3 50px;
 }
