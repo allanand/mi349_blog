@@ -95,3 +95,7 @@ form {
 .aboot {
     display: flex
 }
+
+#aboot {
+    display: flex
+}
