@@ -104,6 +104,9 @@ form {
     flex:1;
 }
 
+#con {
+    display: flex
+}
 .con1 {
     flex:1;
 }
