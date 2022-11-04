@@ -88,10 +88,6 @@ BH10 {
     height: auto ;
 }
 
-form {
-    display: flex;
-}
-
 #aboot {
     display: flex
 }
@@ -100,5 +96,12 @@ form {
     flex:2;
 }
 .aboot2 {
+    flex:1;
+}
+
+.con1 {
+    flex:2;
+}
+.con2 {
     flex:1;
 }
