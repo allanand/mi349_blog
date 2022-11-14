@@ -161,8 +161,6 @@ body {
 /*Positioning */
 #c1 {
     background-color: red;
-    position: absolute;
-    top: 50px;
-    left: 187px;
+    Position: sticky;
 
 }
