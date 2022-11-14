@@ -158,10 +158,16 @@ body {
     }
 */
 
-/*Positioning */
+/*Positioning 
 #c1 {
     background-color: red;
     Position: sticky;
     top: 0;
+}
+*/
 
+@media (max-width: 600px) {
+    #c1 {
+        background: red;
+    }
 }
