@@ -199,18 +199,12 @@ p {
 }
 
 @media (max-width: 400px) {
-    td {
+    table {
         line-height: 1.0em;
         width: 100px;
     }
 }
 
-@media (max-width: 400px) {
-    th {
-        line-height: 1.0em;
-        width: 100px;
-    }
-}
 
 @media (max-width: 400px) {
     img {
