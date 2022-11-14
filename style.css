@@ -124,10 +124,15 @@ form {
 
 */
 
+/*Flexbox
 .cards {
     display: flex;
 }
 
 .card {
     flex: 1;
+}
+*/
+.card {
+    display: grid;
 }
