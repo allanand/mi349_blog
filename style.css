@@ -178,6 +178,6 @@ body {
 
 @media (max-width: 400px) {
     * {
-        margin: 30x;
-        padding: 30px;    }
+        margin: 80px;
+        padding: 80px;    }
 }
