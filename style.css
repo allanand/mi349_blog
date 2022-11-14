@@ -201,7 +201,6 @@ p {
 @media (max-width: 400px) {
     section {
         display: grid;
-        grid-template-columns: auto ;
-
+        width: auto;
     }
 }
