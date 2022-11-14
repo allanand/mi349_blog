@@ -187,7 +187,7 @@ body {
 @media (max-width: 400px) {
 p {
     line-height: 1.0em;
-    width: 200px;
+    width: 100px;
     }
 }
 
@@ -201,6 +201,6 @@ p {
 @media (max-width: 400px) {
     section {
         display: grid;
-        grid-template-columns: auto auto auto ;
+        width: auto;
     }
 }
