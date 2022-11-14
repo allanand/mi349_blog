@@ -199,7 +199,7 @@ p {
 }
 
 @media (max-width: 400px) {
-    table {
+    #bh_table {
         line-height: 1.0em;
         width: 100px;
     }
