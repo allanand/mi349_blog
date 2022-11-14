@@ -104,6 +104,7 @@ form {
 }
 
 /*NEW STUFF*/
+/*Display
 
 .pray {
     background: #222;
@@ -111,7 +112,10 @@ form {
     font-family: Helvetica, sans-serif;
 }
 
-/*Display
+*/
+
+
+/*Flexbox
 .card {
     background: #121212;
     border-radius: 10px;
@@ -124,7 +128,7 @@ form {
 
 */
 
-/*Flexbox
+/*Grid */
 .cards {
     display: flex;
 }
