@@ -175,7 +175,7 @@ body {
     }
 */
 
-@media (min-width: 200px) {
+@media (max-width: 400px) {
     body {
         margin: 20px;
         padding: 20px;
