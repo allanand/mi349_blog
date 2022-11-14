@@ -191,6 +191,6 @@ p {
 
 @media (max-width: 400px) {
     img {
-        max-width: 100%;
+        max-width: 75%;
     }
 }
