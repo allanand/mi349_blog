@@ -104,7 +104,7 @@ form {
 }
 
 /*NEW STUFF*/
-/*Display
+
 
 .pray {
     background: #222;
@@ -112,32 +112,30 @@ form {
     font-family: Helvetica, sans-serif;
 }
 
-*/
-
-
-/*Flexbox
 .card {
     background: #121212;
     border-radius: 10px;
     padding: 20px;
 }
 
-.card {
-    display: inline-block;
-}
+/*Display
+    .card {
+        display: inline-box;
 
+*/
+
+/*Flexbox 
+    .cards {
+        display: flex;
+    }
+    #c1 {
+        flex: 2;
+    }
 */
 
 /*Grid */
 .cards {
-    display: flex;
-}
-
-.card {
-    flex: 1;
-}
-*/
-.card {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100 px;
 }
