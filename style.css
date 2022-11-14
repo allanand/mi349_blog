@@ -153,5 +153,6 @@ body {
 }
 
 #c3 {
-    
+    grid-column: 3;
+    grid-row: 2;
 }
