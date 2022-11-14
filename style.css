@@ -197,3 +197,6 @@ p {
     }
 }
 
+@media (max-width: 400px) {
+    section: grid-area: ::content;
+}
