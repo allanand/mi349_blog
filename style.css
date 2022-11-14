@@ -201,6 +201,6 @@ p {
 @media (max-width: 400px) {
     section {
         display: grid;
-        width: auto;
+        width: 50px;
     }
 }
