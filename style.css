@@ -177,9 +177,7 @@ body {
 
 
 @media (max-width: 400px) {
-    p {
-    font-display: red;
-    line-height:4em;
-    width: 400;
+    * {
+        width: auto;
     }
 }
