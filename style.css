@@ -176,7 +176,7 @@ body {
 */
 
 
-@media (min-width: 400px) {
+@media (max-width: 400px) {
     body {
         color: lightblue;
     }
