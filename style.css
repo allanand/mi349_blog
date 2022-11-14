@@ -120,3 +120,7 @@ form {
 .card {
     display: inline-block;
 }
+
+.cards {
+    display: flex;
+}
