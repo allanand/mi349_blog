@@ -118,5 +118,5 @@ form {
 }
 
 .card {
-    display: inline;
+    display: inline-block;
 }
