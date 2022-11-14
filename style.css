@@ -178,8 +178,6 @@ body {
 
 @media (max-width: 400px) {
     body {
-        color: lightblue;
-        margin: 20px;
-        padding: 20px;
+        color: #F88379;
     }
 }
