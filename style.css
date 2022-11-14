@@ -176,8 +176,8 @@ body {
 */
 
 
-@media (min-width: 400px) {
+@media (max-width: 400px) {
     * {
-        margin: 20x;
-        padding: 20px;    }
+        margin: 30x;
+        padding: 30px;    }
 }
