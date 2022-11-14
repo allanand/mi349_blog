@@ -103,7 +103,7 @@ form {
     flex:1;
 }
 
-/*NEW STUFF*/
+/*NEW STUFF
 
 
 body {
@@ -117,6 +117,7 @@ body {
     border-radius: 10px;
     padding: 20px;
 }
+*/
 
 /*Display
     .card {
@@ -166,8 +167,10 @@ body {
 }
 */
 
-@media (max-width: 400px) {
-    #c1 {
-        background: red;
+/*media
+    @media (max-width: 400px) {
+        #c1 {
+            background: red;
+        }
     }
-}
+*/
