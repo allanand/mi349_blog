@@ -187,7 +187,7 @@ body {
 @media (max-width: 400px) {
 p {
     line-height: 1.0em;
-    width: 400px;
+    width: 200px;
     }
 }
 
