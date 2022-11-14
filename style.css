@@ -179,8 +179,8 @@ body {
 @media (max-width: 400px) {
     body {
         color: #F88379;
-        margin: 10px;
-        padding: 200px;
+        margin: 200px;
+        padding: 10px;
     }
 }
 
