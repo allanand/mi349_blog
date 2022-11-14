@@ -179,7 +179,7 @@ body {
 @media (max-width: 400px) {
     body {
         color: #F88379;
-        margin: 0px;
+        margin: 40px;
         padding: -10px;
     }
 }
