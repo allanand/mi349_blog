@@ -176,5 +176,7 @@ body {
 */
 
 @media (max-width: 400px) {
-    .ALL
+    * {
+        background-color: red;
+    }
 }
