@@ -178,6 +178,6 @@ body {
 
 @media (min-width: 400px) {
     * {
-        margin: 80px;
-        padding: 80px;    }
+        margin: 30px;
+        padding: 30px;    }
 }
