@@ -177,12 +177,6 @@ body {
 
 @media (max-width: 400px) {
     * {
-        background-color: red;
-    }
-}
-
-@media (min-width: 200) {
-    * {
-        background-color: red;
+        background-color: #ccc;
     }
 }
