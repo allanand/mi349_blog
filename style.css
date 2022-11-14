@@ -140,3 +140,17 @@ body {
     grid-template-rows: 100px 100 px;
     grid-gap: 10px;
 }
+
+#c1 {
+    grid-column: 2 / 4;
+    grid-row: 1;
+
+}
+
+#c2 {
+    
+}
+
+#c3 {
+    
+}
