@@ -199,6 +199,6 @@ p {
 
 @media (max-width: 400px) {
     section {
-        display: flex 0;
+        display: flex 0 200px;
     }
 }
