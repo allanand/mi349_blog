@@ -111,6 +111,7 @@ form {
     font-family: Helvetica, sans-serif;
 }
 
+/*Display
 .card {
     background: #121212;
     border-radius: 10px;
@@ -121,6 +122,12 @@ form {
     display: inline-block;
 }
 
+*/
+
 .cards {
     display: flex;
+}
+
+.card {
+    flex: 1;
 }
