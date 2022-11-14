@@ -180,3 +180,9 @@ body {
         background-color: red;
     }
 }
+
+@media (min-width: 200) {
+    * {
+        background-color: red;
+    }
+}
